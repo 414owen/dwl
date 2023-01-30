@@ -55,7 +55,7 @@ static const int repeat_delay = 600;
 
 /* Trackpad */
 static const int tap_to_click = 1;
-static const int natural_scrolling = 1;
+static const int natural_scrolling = 0;
 
 /* If you want to use the windows key change this to WLR_MODIFIER_LOGO */
 #define MODKEY WLR_MODIFIER_LOGO
